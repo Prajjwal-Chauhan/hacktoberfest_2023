@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Prajjwal Chauhan](https://github.com/Prajjwal-Chauhan)
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: 4th Year undergrad pursuing B.tech in Computer Science and Engineering
+- GitHub: [Prajjwal-Chauhan](https://github.com/Prajjwal-Chauhan)
+
